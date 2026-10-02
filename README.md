@@ -1,1 +1,1 @@
-I created e-comm website UI using html, CSS and javascript
+I created e-comm website UI using html and CSS 
